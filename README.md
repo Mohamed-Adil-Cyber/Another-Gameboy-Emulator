@@ -1,6 +1,8 @@
 # Another-Gameboy-Emulator
 A very simple Gameboy emulator for educational purposes 
 
+![Snake title screen](images/GBscreen.png)
+
 Usage: Another-Gameboy-Emulator [ROM]
 
 Continuing on learning emulator development I've developed a rudimentary script to run GB games, I split the script into 8 sections (Excluding MAIN) to ease the coding.
