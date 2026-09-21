@@ -35,6 +35,7 @@ The code is technically inaccurate to GB but passes checks so it works but not c
 AI disclosure: The code is written by me for the most part while following tutorials and documentations as its for educational purposes but whenever I have an error I don't understand or something isn't explained well I ask AI for help fixing it or ask it to help me write a portion and explain it to me, for the most part I understand every line in this script which is the goal of this project.
 
 references:
+
 https://www.inspiredpython.com/course/game-boy-emulator/let-s-write-a-game-boy-emulator-in-python
 
 https://gbdev.io/pandocs/
