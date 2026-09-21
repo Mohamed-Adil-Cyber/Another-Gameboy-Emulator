@@ -36,11 +36,20 @@ AI disclosure: The code is written by me for the most part while following tutor
 
 references:
 https://www.inspiredpython.com/course/game-boy-emulator/let-s-write-a-game-boy-emulator-in-python
+
 https://gbdev.io/pandocs/
+
 https://www.youtube.com/watch?v=HyzD8pNlpwI
+
 https://rylev.github.io/DMG-01/public/book/
+
 https://gbdev.io/gb-asm-tutorial/
+
 https://github.com/tbsp/simple-gb-asm-examples
+
 https://blakesmith.me/2023/05/11/learning-homebrew-game-boy-game-development-in-assembly.html
+
 https://github.com/baekalfen/pyboy
+
 https://github.com/tuliomoreira77/python-simple-gb-emulator
+
