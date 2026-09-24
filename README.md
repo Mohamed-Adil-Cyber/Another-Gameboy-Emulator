@@ -8,7 +8,7 @@ Usage: Another-Gameboy-Emulator [ROM]
 Continuing on learning emulator development I've developed a rudimentary script to run GB games, I split the script into 8 sections (Excluding MAIN) to ease the coding.
 
 
-**CARTRIDGE INFO AND ACTION**S: All metadata read from the header of the cartridge, anything related to loading ROMs, and everything about memory bank controller types and switching (currently missing MBC3 real time clock RTC)
+**CARTRIDGE INFO AND ACTIONS**: All metadata read from the header of the cartridge, anything related to loading ROMs, and everything about memory bank controller types and switching (currently missing MBC3 real time clock RTC)
 
 
 **TIMER**: Placeholder as it lacks the any form of delay which is inaccurate to GB cycles
